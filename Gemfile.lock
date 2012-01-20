@@ -43,7 +43,7 @@ DEPENDENCIES
   haml
   httparty (~> 0.8.1)
   jeweler (~> 1.6.2)
-  json (= 1.5.3)
+  json
   rcov
   riot (~> 0.12.4)
   sinatra
